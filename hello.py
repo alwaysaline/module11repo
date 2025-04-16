@@ -1,5 +1,10 @@
-# A.F Francois
+# A. Francois
 # 4/14/25
-# a simple python program to print a message
+# A simple Python program to print a message
+
+# A. Francois
+# 4/14/25
+# added new message
 
 print("hello, word!")
+print("welcome to GitHub!")
